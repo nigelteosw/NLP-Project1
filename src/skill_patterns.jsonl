@@ -2189,3 +2189,467 @@
 {"label":"SKILL","pattern":[{"LOWER":"professionalism"}]}
 {"label":"SKILL","pattern":[{"LOWER":"emotional"}, {"LOWER":"resilience"}]}
 {"label":"SKILL","pattern":[{"LOWER":"analytical"}, {"LOWER":"thinking"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "develop"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "maintain"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "debug"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "test"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "computer programs"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Programming"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Programmer"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Microsoft"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Microsoft Excel"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "MS Excel"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Microsoft Office"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "MS Office"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Software Development"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "HTML"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Retention"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "SQL"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Modeling"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Modelling"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Analytics"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Apache"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Apache Airflow"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Apache Impala"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Apache Drill"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Apache Hadoop"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Data"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Certification"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Data Collection"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Datasets"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Business Requirements"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Data Mining"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Data Science"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Visualization"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Technical Guidance"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Client Analytics"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Programming Skills"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Sql Server"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Computer Science"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Statistical Modeling"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Applied Data Science"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Hiring"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Technical"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Database"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Education"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "R"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "C"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "C++"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "C#"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Ruby"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Ruby on Rails"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Weka"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Matlab"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Django"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "NetBeans"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "IDE"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "stochastic"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Marketing"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Mining"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Mathematics"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Forecasts"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Statistics"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Programming"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "python"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Python"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Microsoft Sql Server"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "MS Sql Server"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "NoSql"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "No-Sql"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Hadoop"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Spark"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Java"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Algorithms"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Databases"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Numpy"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Pandas"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "scikit-learn"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Scikit"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "clustering"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "classification"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "neural networks"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "neural network"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "tensorflow"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "pytorch"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "theano"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "keras"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Pig"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Adaboost"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Statistics"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Statistical analysis"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "machine learning"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "data mining"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "data science"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "data analytics"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "data analysis"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "regression"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "kmeans"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "k-means"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "kNN"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Bayes"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Bayesian Probability"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Bayesian Estimation"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Bayesian Network"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Forest"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Random Forest"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Decision Tree"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Matrix"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Matrix Factorization"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "SVD"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Outlier"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Outlier detection"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Regression Analysis"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Frequent Itemset Mining"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Classification Analysis"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Backpropagation"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Sample"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "LogitBoost"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Time Series"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Stochastic Gradient Descent"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Gradient Descent"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "PCA"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Principal Component Analysis"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Dynamic"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Dynamic programming"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Clustering"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Classification"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Data-driven"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Algorithms"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Analysis"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Analytical"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Analytics"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Analyze Data"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Applications"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Application Development"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Application Development Methodologies"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Application Development Techniques"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Application Development Tools"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Application Programming Interfaces"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "AWS"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "AWS Glue"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Architecture"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "AROS"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Ars Based Programming"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Aspect Oriented Programming"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Best Practices"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Browsers"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "CASE Tools"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Capital management"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Code"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Coding"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Collaboration"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Communication"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Components"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Computer Platforms"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Concurrent Programming"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Computer Science"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Computational complexity"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Constraint-based Programming"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Customer Service"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Database Management Systems"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "DBMS"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Database Techniques"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Databases"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Database"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Data"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Data Analytics"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Data Structures"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Debugging"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Design"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Design Patterns"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Development"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Development Tools"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Distributed Computing"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Dimensionality Reduction"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Documentation"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Embedded Hardware"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Emerging Technologies"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Fourth Generation Languages"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Hardware"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "HTML Authoring Tools"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "HTML Conversion Tools"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Industry Systems"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "iOS"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Information Systems"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Implementation"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Interface with Clients"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Interface with Vendors"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Internet"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Languages"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Linux"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Logic"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "MacOS"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Math"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Mobile"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Multimedia"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Multi-Tasking"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "MXNet"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Object oriented programming"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "object oriented"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Operating Systems"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Optimizing"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Organizational"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "OS Programming"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Parallel Processing"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Personal"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Physics"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Planning"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Post Object Programming"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Presto"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Problem Solving"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Programming Languages"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Programming Methodologies"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Quality Control"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Relational Databases"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Relational Programming"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Reporting"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Revision Control"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Self-Motivation"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Software"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Structured Query Language (SQL)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Symbolic Programming"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "System Architecture"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "System Development"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "System Design"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "System Programming"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "System Testing"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Teamwork"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Technical"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Testing"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Third Generation Languages"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Troubleshooting"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "UNIX"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Use Logical Reasoning"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Web"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Web Applications"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Web Platforms"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Web Services"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Windowing Systems"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Windows"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT": "Workstations"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"TensorFlow"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"PyTorch"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Hadoop"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Apache Spark"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Red Hat Certified Engineer"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Google Cloud Professional"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Oracle Database"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Ansible"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Terraform"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Zabbix"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Splunk"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"IBM Watson"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Snowflake"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Databricks"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Cybersecurity Analyst Certification"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Ethical Hacking"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Penetration Testing"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Cisco Certified Network Associate (CCNA)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Information Security Management"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"JIRA"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Confluence"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"SOLID Principles"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Microservices Architecture"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"VHDL"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"FPGA"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Industrial Automation"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"CNC Programming"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"BIM (Building Information Modeling)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"ANSYS"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"COMSOL Multiphysics"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"SolidWorks"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AutoCAD"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Revit"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Maya"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"3ds Max"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Blender"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Unity"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Unreal Engine"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"ArcGIS"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"QGIS"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Raspberry Pi"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Arduino"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"LabVIEW"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Embedded Systems"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Digital Signal Processing"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Autodesk Inventor"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"CFD Analysis"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"HVAC Systems"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Construction Project Management"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"PLC Programming"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Digital Marketing Analytics"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"SEO Optimization"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Google Analytics"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Content Management Systems"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Adobe Premiere Pro"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"After Effects"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Cinema 4D"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Procreate"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Git"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"SVN"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Mercurial"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Software Testing"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Unit Testing"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Integration Testing"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Load Testing"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"ETL Development"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Data Warehousing"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Apache Cassandra"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"MongoDB"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"PostgreSQL"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Redis"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Elasticsearch"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Selenium"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Appium"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Jenkins"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Bamboo"} ]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Chef"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Puppet"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Salesforce"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"HubSpot"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Marketo"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Typescript"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Javascript"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"React"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Angular"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Vue"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Node"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Express"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Django"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Flask"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Ruby on Rails"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Laravel"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Spring"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Hibernate"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"JPA"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"JSP"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Servlet"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Thymeleaf"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Azure"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Google Cloud"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"IBM Cloud"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Oracle Cloud"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Salesforce Cloud"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"SAP Cloud"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"VMware Cloud"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Red Hat Cloud"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Alibaba Cloud"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Tencent Cloud"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Baidu Cloud"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Huawei Cloud"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"JD Cloud"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Kingsoft Cloud"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"UCloud"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Qiniu Cloud"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Cloudflare"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"DigitalOcean"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Linode"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Vultr"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Scaleway"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"OVH"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Hetzner"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"IONOS"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Aruba Cloud"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Kamatera"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"UpCloud"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"CloudSigma"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"G-Core Labs"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Selectel"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Yandex Cloud"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Mail.ru Cloud"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Megaport"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Equinix"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"CoreSite"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Digital Realty"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"CyrusOne"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"QTS Realty Trust"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Cyxtera Technologies"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"TierPoint"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Internap"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"DataBank"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"FiberLight"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Zayo"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Crown Castle"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"American Tower"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"SBA Communications"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Vertical Bridge"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"ExteNet Systems"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"ZenFi Networks"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Uniti Group"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Crown Castle"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"American Tower"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"SBA Communications"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Vertical Bridge"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"ExteNet Systems"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"ZenFi Networks"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Uniti Group"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified Solutions Architect"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified Developer"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified SysOps Administrator"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified DevOps Engineer"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified Big Data"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified Advanced Networking"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified Security"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified Machine Learning"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified Alexa Skill Builder"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified Data Analytics"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified Database"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified Blockchain"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified IoT"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified Game Tech"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified Digital Transformation"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified SAP"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified VMware"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified Security"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified Machine Learning"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified Alexa Skill Builder"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified Data Analytics"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified Database"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified Blockchain"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"AWS Certified IoT"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Google Certified Educator"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Google Certified Trainer"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Google Certified Innovator"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Apple Teacher"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Microsoft Certified Educator"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"ISTE Certified Educator"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Common Sense Educator"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Edpuzzle Certified Educator"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Screencastify Master Screencaster"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Pear Deck Certified Coach"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Flipgrid Certified Educator"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Nearpod Certified Educator"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Seesaw Ambassador"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"ClassDojo Mentor"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Kahoot Certified"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Quizizz Certified"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Buncee Ambassador"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Adobe Creative Educator"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Book Creator Ambassador"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"EdTechTeam Leader"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"EdTechTeam Trainer"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"EdTechTeam Innovator"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"EdTechTeam Coach"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Certified Public Accountant (CPA)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Chartered Financial Analyst (CFA)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Certified Management Accountant (CMA)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Certified Internal Auditor (CIA)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Certified Information Systems Auditor (CISA)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Certified Information Security Manager (CISM)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Certified Fraud Examiner (CFE)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Certified Government Auditing Professional (CGAP)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Certified Financial Services Auditor (CFSA)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Certified Bank Auditor (CBA)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Certified Risk Management Assurance (CRMA)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Certified Information Systems Security Professional (CISSP)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Certified Information Security Manager (CISM)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Certified Information Systems Auditor (CISA)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Certified Ethical Hacker (CEH)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Certified Information Privacy Professional (CIPP)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Certified Information Privacy Manager (CIPM)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Certified Information Privacy Technologist (CIPT)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Certified Information Systems Security Professional (CISSP)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Certified Information Security Manager (CISM)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Certified Information Systems Auditor (CISA)"}]}
+{"label": "HARD SKILL", "pattern": [{"TEXT":"Certified Ethical Hacker (CEH)"}]}
