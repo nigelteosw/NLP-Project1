@@ -74,7 +74,7 @@ The system encodes job descriptions and resumes into a **shared high-dimensional
 
 ---
 
-## 🙌 Acknowledgements
+## Acknowledgements
 
 This project was developed as part of the **Natural Language Processing (1120-DS000-MSA-0234)** module. Special thanks to all instructors and peers who provided valuable feedback.
 
